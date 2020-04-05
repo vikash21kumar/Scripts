@@ -1,3 +1,5 @@
+#Sonar host Duraviyam: http://13.250.115.89:9000
+
 # Goals
 $SONAR_MAVEN_GOAL -Dsonar.host.url=$SONAR_HOST_URL
 
